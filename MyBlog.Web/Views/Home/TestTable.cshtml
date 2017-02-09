@@ -1,0 +1,118 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+    <style>
+        table {
+            border-collapse: collapse;
+            border: solid 1px #90ABCC;
+        }
+
+            table thead {
+                background: #099abc;
+                color: #333333;
+                text-align: center;
+                line-height: 25px;
+                font-size: 14px;
+                font-weight: bold;
+            }
+
+                table thead td {
+                    border-left: solid 1px #90abcc;
+                    border-right: solid 1px #90abcc;
+                    border-bottom: solid 1px #90abcc;
+                    height: 22px;
+                }
+
+            table tbody td {
+                border-left: solid 1px #C1C6D3;
+                border-right: solid 1px #C1C6D3;
+                text-align: center;
+            }
+    </style>
+
+    <script type="text/javascript">
+        var top=0;
+        function getTop()
+        {
+          top=document.getElementById("moveDiv").style.pixelTop;
+        }
+        function move()
+        {
+           document.getElementById("moveDiv").style.pixelTop=top+document.body.scrollTop;
+        }
+        window.onscroll = move;
+    </script>
+</head>
+<body align="center" onload="getTop()">
+    <div style="border:solid 1px #FF0000;text-align:center; width:800px; z-index:1;">
+        <table width="800">
+            <thead>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </thead>
+            <tr>
+                <td>aaaa</td>
+                <td>aaaa</td>
+                <td>aaaa</td>
+                <td>aaaa</td>
+                <td>aaaa</td>
+            </tr>
+            <tr>
+                <td>bbbb</td>
+                <td>bbbb</td>
+                <td>bbbb</td>
+                <td>bbbb</td>
+                <td>bbbb</td>
+            </tr>
+            <tr>
+                <td>cccc</td>
+                <td>cccc</td>
+                <td>cccc</td>
+                <td>cccc</td>
+                <td>cccc</td>
+            </tr>
+            <tr>
+                <td>dddd</td>
+                <td>dddd</td>
+                <td>dddd</td>
+                <td>dddd</td>
+                <td>dddd</td>
+            </tr>
+            <tr>
+                <td>eeee</td>
+                <td>eeee</td>
+                <td>eeee</td>
+                <td>eeee</td>
+                <td>eeee</td>
+            </tr>
+        </table>
+
+        <div id="moveDiv" style="width:800px;z-index:2;position:absolute;top:25px;left:12px;">
+            <table width="800">
+                <thead>
+                    <tr>
+                        <td>用户名</td>
+                        <td>姓名</td>
+                        <td>部门</td>
+                        <td>岗位</td>
+                        <td>权限</td>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+    <br><br><br><br><br><br><br><br><br><br>
+</body>
+</html>

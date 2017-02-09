@@ -1,0 +1,5 @@
+D:\project\GIT\MyBlog\MyBlog.Entity\bin\Debug\MyBlog.Entity.dll
+D:\project\GIT\MyBlog\MyBlog.Entity\bin\Debug\MyBlog.Entity.pdb
+D:\project\GIT\MyBlog\MyBlog.Entity\obj\Debug\MyBlog.Entity.csprojResolveAssemblyReference.cache
+D:\project\GIT\MyBlog\MyBlog.Entity\obj\Debug\MyBlog.Entity.dll
+D:\project\GIT\MyBlog\MyBlog.Entity\obj\Debug\MyBlog.Entity.pdb

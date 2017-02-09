@@ -1,0 +1,63 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="blog-section" ng-app="indexApp">
+    <h4 class="head">最新博客<span class="line"></span></h4>
+    <div class="blog-post-grids" ng-controller="indexCtr">
+        <div class="col-md-4 blog-posts">
+            <div class="blog-post">
+                <a href="single.html"><img src="/Content/images/b1.jpg"></a>
+                <a href="single.html" class="blog-title">This is blog post title</a>
+                <p class="sub_head"><a href="#">Admin</a> on 12/04/2014</p>
+                <span></span>
+                <p>Phasellus in tincidunt velit. Etiam fermentum fringilla tristique. Aenean posuere aliquam interdum. Sed dignissim turpis eget leo ultricies ultricies. Sed et felis leo, eget dapibus massa. Etiam volutpat vehicula dolor, vel placerat odio posuere non.</p>
+            </div>
+            <div class="blog-post">
+                <a href="single.html"><img src="/Content/images/b2.jpg"></a>
+                <a href="single.html" class="blog-title">This is blog post title</a>
+                <p class="sub_head">Posted by <a href="#">Admin</a> on 12/04/2014</p>
+                <span></span>
+                <p>Fusce placerat bibendum augue, non posuere lorem facilisis sit amet. Mauris malesuada nunc eget est pellentesque sit amet aliquet dolor pharetra. Integer placerat elit quis nisl dignissim non consectetur quam vestibulum. Suspendisse tincidunt adipiscing magna, ut dapibus nulla varius nec. Proin mi dolor, dapibus nec congue posuere, ornare sit.</p>
+            </div>
+        </div>
+        <div class="col-md-4 blog-posts">
+            <div class="blog-post">
+                <a href="single.html"><img src="/Content/images/b3.jpg"></a>
+                <a href="single.html" class="blog-title">This is blog post title</a>
+                <p class="sub_head">Posted by <a href="#">Admin</a> on 12/04/2014</p>
+                <span></span>
+                <p>Phasellus in tincidunt velit. Etiam fermentum fringilla tristique. Aenean posuere aliquam interdum. Sed dignissim turpis eget leo ultricies ultricies. </p>
+            </div>
+            <div class="blog-post">
+                <a href="single.html"><img src="/Content/images/b1.jpg"></a>
+                <a href="single.html" class="blog-title">This is blog post title</a>
+                <p class="sub_head">Posted by <a href="#">Admin</a> on 12/04/2014</p>
+                <span></span>
+                <p>Phasellus in tincidunt velit. Etiam fermentum fringilla tristique. Aenean posuere aliquam interdum. Sed dignissim turpis eget leo ultricies ultricies. Sed et felis leo, eget dapibus massa. Etiam volutpat vehicula dolor, vel placerat odio posuere non.</p>
+            </div>
+        </div>
+        <div class="col-md-4 blog-posts span_66">
+            <div class="blog-post">
+                <a href="single.html"><img src="/Content/images/b2.jpg"></a>
+                <a href="single.html" class="blog-title">This is blog post title</a>
+                <p class="sub_head">Posted by <a href="#">Admin</a> on 12/04/2014</p>
+                <span></span>
+                <p>Fusce placerat bibendum augue, non posuere lorem facilisis sit amet. Mauris malesuada nunc eget est pellentesque sit amet aliquet dolor pharetra. Integer placerat elit quis nisl dignissim non consectetur quam vestibulum. Suspendisse tincidunt adipiscing magna, ut dapibus nulla varius nec. Proin mi dolor, dapibus nec congue posuere, ornare sit. </p>
+            </div>
+            <div class="blog-post">
+                <a href="single.html"><img src="/Content/images/b3.jpg"></a>
+                <a href="single.html" class="blog-title">This is blog post title</a>
+                <p class="sub_head">Posted by <a href="#">Admin</a> on 12/04/2014</p>
+                <span></span>
+                <p>Phasellus in tincidunt velit. Etiam fermentum fringilla tristique. Aenean posuere aliquam interdum. Sed dignissim turpis eget leo ultricies ultricies. </p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
+<div class="go-top">
+    <a href="#header" class="scroll"><img src="/Content/images/go-to-top.png" alt="返回顶部" /></a>
+</div>
+<script src="~/Scripts/app/home/index.js"></script>
