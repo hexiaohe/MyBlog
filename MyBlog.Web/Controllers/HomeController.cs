@@ -4,8 +4,8 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Web;
 using System.Web.Mvc;
-using MyBlog.EF.Repositories;
-using MyBlog.Entity;
+using MyBlog.EntityFramework.Repositories;
+using MyBlog.Model;
 
 namespace MyBlog.Web.Controllers
 {

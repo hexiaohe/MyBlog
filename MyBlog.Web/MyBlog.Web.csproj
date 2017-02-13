@@ -15,7 +15,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>MyBlog.Web</RootNamespace>
     <AssemblyName>MyBlog.Web</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
     <IISExpressAnonymousAuthentication />
@@ -68,8 +68,8 @@
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Web.Services" />
@@ -189,13 +189,13 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MyBlog.EF\MyBlog.EF.csproj">
+    <ProjectReference Include="..\MyBlog.EntityFramework\MyBlog.EntityFramework.csproj">
       <Project>{4bcf418b-011e-4342-8878-8d0d8b07966f}</Project>
-      <Name>MyBlog.EF</Name>
+      <Name>MyBlog.EntityFramework</Name>
     </ProjectReference>
-    <ProjectReference Include="..\MyBlog.Entity\MyBlog.Entity.csproj">
+    <ProjectReference Include="..\MyBlog.Model\MyBlog.Model.csproj">
       <Project>{f3c1a02d-8569-41df-b5f9-0e165022678a}</Project>
-      <Name>MyBlog.Entity</Name>
+      <Name>MyBlog.Model</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

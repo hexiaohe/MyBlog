@@ -1,0 +1,10 @@
+D:\project\GIT\MyBlog\MyBlog.Entity\bin\Debug\MyBlog.Entity.dll
+D:\project\GIT\MyBlog\MyBlog.Entity\bin\Debug\MyBlog.Entity.pdb
+D:\project\GIT\MyBlog\MyBlog.Entity\obj\Debug\MyBlog.Model.csprojResolveAssemblyReference.cache
+D:\project\GIT\MyBlog\MyBlog.Entity\obj\Debug\MyBlog.Entity.dll
+D:\project\GIT\MyBlog\MyBlog.Entity\obj\Debug\MyBlog.Entity.pdb
+D:\project\GIT\MyBlog\MyBlog.Model\bin\Debug\MyBlog.Model.dll
+D:\project\GIT\MyBlog\MyBlog.Model\bin\Debug\MyBlog.Model.pdb
+D:\project\GIT\MyBlog\MyBlog.Model\obj\Debug\MyBlog.Model.csprojResolveAssemblyReference.cache
+D:\project\GIT\MyBlog\MyBlog.Model\obj\Debug\MyBlog.Model.dll
+D:\project\GIT\MyBlog\MyBlog.Model\obj\Debug\MyBlog.Model.pdb

@@ -42,8 +42,8 @@ D:\project\GIT\MyBlog\MyBlog.Web\bin\EntityFramework.dll
 D:\project\GIT\MyBlog\MyBlog.Web\bin\MySql.Data.dll
 D:\project\GIT\MyBlog\MyBlog.Web\bin\EntityFramework.xml
 D:\project\GIT\MyBlog\MyBlog.Web\bin\zh-Hans\EntityFramework.resources.dll
-D:\project\GIT\MyBlog\MyBlog.Web\bin\MyBlog.EF.dll
-D:\project\GIT\MyBlog\MyBlog.Web\bin\MyBlog.Entity.dll
 D:\project\GIT\MyBlog\MyBlog.Web\bin\MySql.Data.Entity.EF6.dll
-D:\project\GIT\MyBlog\MyBlog.Web\bin\MyBlog.EF.pdb
-D:\project\GIT\MyBlog\MyBlog.Web\bin\MyBlog.Entity.pdb
+D:\project\GIT\MyBlog\MyBlog.Web\bin\MyBlog.EntityFramework.dll
+D:\project\GIT\MyBlog\MyBlog.Web\bin\MyBlog.Model.dll
+D:\project\GIT\MyBlog\MyBlog.Web\bin\MyBlog.EntityFramework.pdb
+D:\project\GIT\MyBlog\MyBlog.Web\bin\MyBlog.Model.pdb
