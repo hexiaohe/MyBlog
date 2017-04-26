@@ -8,3 +8,8 @@ D:\project\GIT\MyBlog\MyBlog.Model\bin\Debug\MyBlog.Model.pdb
 D:\project\GIT\MyBlog\MyBlog.Model\obj\Debug\MyBlog.Model.csprojResolveAssemblyReference.cache
 D:\project\GIT\MyBlog\MyBlog.Model\obj\Debug\MyBlog.Model.dll
 D:\project\GIT\MyBlog\MyBlog.Model\obj\Debug\MyBlog.Model.pdb
+D:\project\He\MyBlog\MyBlog.Model\bin\Debug\MyBlog.Model.dll
+D:\project\He\MyBlog\MyBlog.Model\bin\Debug\MyBlog.Model.pdb
+D:\project\He\MyBlog\MyBlog.Model\obj\Debug\MyBlog.Model.csprojResolveAssemblyReference.cache
+D:\project\He\MyBlog\MyBlog.Model\obj\Debug\MyBlog.Model.dll
+D:\project\He\MyBlog\MyBlog.Model\obj\Debug\MyBlog.Model.pdb
