@@ -1,7 +1,0 @@
-D:\project\GIT\MyBlog\MyBlog.Dapper\obj\Debug\MyBlog.Dapper.csprojResolveAssemblyReference.cache
-D:\project\GIT\MyBlog\MyBlog.Dapper\bin\Debug\MyBlog.Dapper.dll
-D:\project\GIT\MyBlog\MyBlog.Dapper\bin\Debug\MyBlog.Dapper.pdb
-D:\project\GIT\MyBlog\MyBlog.Dapper\bin\Debug\Dapper.dll
-D:\project\GIT\MyBlog\MyBlog.Dapper\bin\Debug\Dapper.xml
-D:\project\GIT\MyBlog\MyBlog.Dapper\obj\Debug\MyBlog.Dapper.dll
-D:\project\GIT\MyBlog\MyBlog.Dapper\obj\Debug\MyBlog.Dapper.pdb
